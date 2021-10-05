@@ -65,4 +65,17 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minifyde
+
+
+root 디렉토리에서 npm install
+client 디렉토리에서 npm install
+
+/server/config/dev.js 파일생성
+
+prod.js 내의 내용을 복사해서 붙이기
+
+MongoDB 생성후 내용 복사
+
+- 업로드 페이지 만들기 시작
+
